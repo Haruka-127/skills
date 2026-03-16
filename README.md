@@ -1,4 +1,4 @@
-# SKILLS　置き場
+# SKILLS
 ## インストール方法
 ```
 npx openskills install Haruka-127/skills
