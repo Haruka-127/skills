@@ -9,3 +9,6 @@ npx openskills sync
     - コーディングエージェント向けの実装計画書を作成するためのSKILLS
 - implementation-plan-review
     - 実装計画書を多角的にレビューし、抜け漏れや曖昧さを洗い出すためのSKILLS
+- code-review
+    - ステージされている変更をレビューするためのSKILLS
+    - ステージされているファイルがない場合は、変更されたファイルと新規作成ファイルをレビューするSKILLS
