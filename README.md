@@ -7,3 +7,5 @@ npx openskills sync
 ## SKILLS 一覧
 - implementation-plan
     - コーディングエージェント向けの実装計画書を作成するためのSKILLS
+- implementation-plan-review
+    - 実装計画書を多角的にレビューし、抜け漏れや曖昧さを洗い出すためのSKILLS
