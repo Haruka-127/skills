@@ -5,6 +5,8 @@ npx openskills install Haruka-127/skills
 npx openskills update
 ```
 ## SKILLS 一覧
+- requirements-definition
+    - 実装計画書を作成する前段階として、ユーザーとの対話を通じてプロジェクトの要件を整理し、要件定義書を作成するためのSKILLS
 - implementation-plan
     - コーディングエージェント向けの実装計画書を作成するためのSKILLS
 - implementation-plan-review
