@@ -2,7 +2,7 @@
 ## インストール方法
 ```
 npx openskills install Haruka-127/skills
-npx openskills sync
+npx openskills update
 ```
 ## SKILLS 一覧
 - implementation-plan
