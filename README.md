@@ -16,3 +16,6 @@ npx openskills update
 - code-review
     - ステージされている変更をレビューするためのSKILLS
     - ステージされているファイルがない場合は、変更されたファイルと新規作成ファイルをレビューするSKILLS
+- design-system-extraction
+    - 指定されたURLのWebページからデザインシステム（カラーパレット、タイポグラフィ、スペーシング、コンポーネントパターン）を抽出するためのSKILLS
+    - MarkdownドキュメントとCSSカスタムプロパティの両方を出力する
