@@ -1,8 +1,8 @@
 # SKILLS
 ## インストール方法
 ```
-npx openskills install Haruka-127/skills
-npx openskills update
+npx skills add Haruka-127/skills
+npx skills update
 ```
 ## SKILLS 一覧
 - requirements-definition
